@@ -131,4 +131,5 @@ sc delete название_из_первого_шага
 - [`ipset-telegram.txt`](./lists/ipset-telegram.txt) для IP и подсетей, используемых телеграмом
 
 Благодарю [Flowseal](https://github.com/Flowseal/) за создание столь удобного решения для программы zapret, а именно - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+<br>
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
